@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>ProductLocatorAPIURL</key>
-	<string>data.cbrands.com</string>
+	<string>test.cbrands.com</string>
 </dict>
 </plist>
