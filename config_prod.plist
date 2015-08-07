@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>SalesForceAPIURL</key>
-	<string>default.salesforce.com</string>
+	<string>prod.cbrands.salesforce.com</string>
 	<key>ProductLocatorAPIURL</key>
-	<string>default.cbrands.com</string>
+	<string>prod.data.cbrands.com</string>
 </dict>
 </plist>
